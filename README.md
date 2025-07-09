@@ -1,4 +1,4 @@
-## Enchantée, je suis Aude👋
+## Enchanté, je suis Aude👋
 Je suis étudiante en Master Monnaie, Banque, Finance, Assurance dans la spécialité Systèmes d’Information Économiques et Financiers, avant ça j'ai fait une licence MIASHS avec un fort contenu en maths appliquées et en programmation (Python, C++).<br/>
 
 🔍 Curieuse et passionée par la programmation, j’aime comprendre comment fonctionnent les systèmes, comment circulent les données, et surtout comment les transformer en outils utiles dans un cadre financier.<br/>
