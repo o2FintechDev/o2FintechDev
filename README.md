@@ -15,8 +15,7 @@ Je suis étudiante en Master Monnaie, Banque, Finance, Assurance dans la spécia
 
 🎯 Mes ambitions<br/>
   - 🔍 Continuer à développer des projets concrets mêlant finance, data et tech<br/>
-  - 🏦 Intégrer un **stage de M2** dans une grande banque ou une institution financière<br/>
-  - 🧠  Renforcer mes compétences en finance quantitative, programmation, et systèmes d'information<br/>
+  - 🧠 Renforcer mes compétences en finance quantitative, programmation, et systèmes d'information<br/>
 
 
 # 💻 Tech Stack:
