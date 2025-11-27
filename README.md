@@ -75,7 +75,7 @@ Je suis étudiante en Master Systèmes d’Information Économiques et Financier
 ### 💼 [Gestion de Portefeuille Financier – Streamlit App](https://github.com/o2FintechDev/gestion_portefeuille)  
 > Application interactive d’analyse de performance, de risque et d’optimisation de portefeuille selon Markowitz & Tobin (Python, Streamlit, yfinance, pandas, Plotly).  
 
-###  [Analyse et Visualisation des Résultats des Élections Européennes 2019–2024 ]https://github.com/o2FintechDev/elections-europeennes-2019-2024  
+### 🇪🇺 [Analyse et Visualisation des Résultats des Élections Européennes 2019–2024 ](https://github.com/o2FintechDev/elections-europeennes-2019-2024) 
 > Projet d’analyse et de visualisation des résultats des élections européennes 2019–2024 en France, permettant d’explorer l’évolution du vote à travers des graphiques interactifs et des cartographies des suffrages.
 
 ---
