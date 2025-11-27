@@ -72,14 +72,11 @@ Je suis étudiante en Master Systèmes d’Information Économiques et Financier
 
 # 📂 Projets phares  
 
-### 💼 [Gestion de Portefeuille Financier – Streamlit App](https://github.com/o2FintechDev/portfolio-optimizer)  
+### 💼 [Gestion de Portefeuille Financier – Streamlit App](https://github.com/o2FintechDev/gestion_portefeuille)  
 > Application interactive d’analyse de performance, de risque et d’optimisation de portefeuille selon Markowitz & Tobin (Python, Streamlit, yfinance, pandas, Plotly).  
 
-### 🌍 [Propagation des chocs économiques France–USA (Projet VM)](https://github.com/o2FintechDev/VM-macro-financial-shocks)  
-> Projet en environnement multi-VM (PostgreSQL, Ubuntu Router, Windows Workstation) pour étudier la transmission des politiques monétaires BCE vs Fed à travers les marchés et indicateurs macroéconomiques.  
-
-### 🧳 [Base de données – Agence de voyage de luxe](https://github.com/o2FintechDev/Luxury-Travel-DB)  
-> Conception d’un modèle relationnel complet (MCD/MLD) avec gestion des historiques, contraintes d’intégrité et génération de code SQL PostgreSQL.  
+###  [Analyse et Visualisation des Résultats des Élections Européennes 2019–2024 ]https://github.com/o2FintechDev/elections-europeennes-2019-2024  
+> Projet d’analyse et de visualisation des résultats des élections européennes 2019–2024 en France, permettant d’explorer l’évolution du vote à travers des graphiques interactifs et des cartographies des suffrages.
 
 ---
 
